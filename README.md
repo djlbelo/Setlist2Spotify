@@ -8,7 +8,7 @@
 
 ## 📸 Preview
 
-![Setlist2Spotify Preview](https://raw.githubusercontent.com/djlbelo/setlist2spotify/screenshots/Setlist2Spotify_Demo.gif)
+![Setlist2Spotify Preview](https://raw.githubusercontent.com/djlbelo/Setlist2Spotify/refs/heads/master/screenshots/Setlist2Spotify_Demo.gif)
 
 ---
 
